@@ -1,5 +1,4 @@
-halo🎉 ,this is the reducer space
+halo🎉 ,this is the boice space
 - email:datachaihaobo@gmail.com
 - located:China Nanjing,Jiangsu
-- doing:risk devlopment
-- studying:growing up
+- doing:go
